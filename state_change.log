@@ -1,3 +1,4 @@
 2019-11-01T19:12:26.507361974Z - OperationTypePlan: alastad@MacBook-Pro-2.local c48cb511-293d-a358-0166-646f3fed09e1 LOCK
 2019-11-01T19:12:26.507361974Z - OperationTypePlan: alastad@MacBook-Pro-2.local c48cb511-293d-a358-0166-646f3fed09e1 UNLOCK
 2019-11-01T19:12:49.413524131Z - OperationTypeApply: alastad@MacBook-Pro-2.local 848f78c6-9450-93d0-354e-9e75bc77491f LOCK
+2019-11-01T19:12:49.413524131Z - OperationTypeApply: alastad@MacBook-Pro-2.local 848f78c6-9450-93d0-354e-9e75bc77491f UNLOCK
